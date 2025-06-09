@@ -25,3 +25,5 @@ h = True or False
 print(h)
 i = True and True
 print(i)
+print(not(False))
+print(not(True))
